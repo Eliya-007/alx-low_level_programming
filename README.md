@@ -1,1 +1,1 @@
-yooo
+lesrning pointers in c language 
