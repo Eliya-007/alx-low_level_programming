@@ -1,1 +1,1 @@
-lesrning pointers in c language 
+AlX engineering course in its low lever form

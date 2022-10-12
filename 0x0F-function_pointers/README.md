@@ -1,0 +1,1 @@
+mote funtional pointers
